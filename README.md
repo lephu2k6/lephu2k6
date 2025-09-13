@@ -14,6 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👨‍💻 Xin chào, tôi là Minh Phú
+
+Tôi là một **Kỹ sư Phần mềm** với niềm đam mê xây dựng các ứng dụng web, hệ thống tự động hóa và giải pháp công nghệ giúp tối ưu hiệu suất công việc.  
+
+## 🚀 Về tôi
+- 🔭 Hiện tại tôi đang phát triển các dự án liên quan đến **Web Application**, **API**, và **Tự động hóa hệ thống**  
+- 🌱 Tôi luôn học hỏi thêm về **Node.js**, **ReactJS**, **Database (SQL & NoSQL)**, và **Cloud**  
+- 👯 Mong muốn hợp tác trong các dự án **Web Development**, **Microservices**, **DevOps**  
+- 💬 Có thể trao đổi cùng tôi về: **Thiết kế hệ thống**, **Bảo mật ứng dụng**, **Cơ sở dữ liệu**, **Hiệu năng web**  
+- ⚡ Fun fact: Tôi thích kết hợp công nghệ với thực tiễn để tạo ra những sản phẩm hữu ích trong đời sống  
+
 
 
 ## 🌐 Socials:
