@@ -1,6 +1,26 @@
-# 💫 About Me:
-## Hi there 👋<br><br># Minh Phú<br><br>Sinh viên Công nghệ Thông tin, Đại học Giao thông Vận tải TP.HCM.  <br>Đam mê Web Development, API và Trí tuệ nhân tạo (AI).<br><br>## Hiện tại<br>- Học tập và phát triển dự án Web App và AI.<br>- Học thêm: Node.js, React, TailwindCSS, SQL/NoSQL<br><br>## Mục tiêu<br>- Trở thành Kỹ sư phần mềm chuyên nghiệp.<br>- Tham gia các dự án thực tế và cộng tác với cộng đồng IT.
+I'm Minh Phu, an IT student from Vietnam.
 
+I’m currently learning and building projects to improve my skills.
+Whenever I get an idea, I try to turn it into a small project to learn something new.
+
+My main tech stack right now is HTML, CSS, JavaScript, Node.js, Express, MongoDB, and React + TailwindCSS.
+
+I’ve built several study projects, including:
+
+A small e-commerce website (login, register, product listing, orders)
+
+A warehouse renting website (CRUD, filtering, posting)
+
+Practice labs with VCB API, banking automation
+
+SQL projects: Student Management, Retail Invoice, Geographic Database
+
+I'm still learning every day — especially web development, and database systems.
+
+Fun Facts
++ I learn by building real mini-projects.
++ I enjoy solving problems with JavaScript.
++ I want to improve my frontend + backend skills to become a full-stack developer.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/le.phu.03102006) 
